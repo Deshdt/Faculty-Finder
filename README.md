@@ -1,3 +1,3 @@
 # Faculty Finder
 
-Locatr your faculty in no time
+Locate your faculty in no time
